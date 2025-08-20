@@ -34,6 +34,8 @@ This project helps users stay organized, track progress, and boost productivity 
 
 ## 📸 Screenshots
 
+<img width="1371" height="792" alt="Screenshot 2025-08-20 221800" src="https://github.com/user-attachments/assets/cd392edc-c717-4376-9ea3-dd38455c41bf" />
+
 <img width="1269" height="824" alt="image" src="https://github.com/user-attachments/assets/9792df88-ec0f-4287-a037-a59516de7993" />
 
 ---
