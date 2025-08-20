@@ -1,29 +1,35 @@
 # 📝 To-Do-List-App
-A clean and responsive To-Do List app built with HTML, CSS, and JavaScript to manage tasks effortlessly.
+A clean and responsive **To-Do List app** built with HTML, CSS, and JavaScript to manage tasks effortlessly.
 This project helps users stay organized, track progress, and boost productivity with an easy-to-use interface.
 
-🚀 Features
+---
 
-➕ Add Tasks – Quickly add new tasks to the list.
+## 🚀 Features
 
-🗑️ Delete Tasks – Remove tasks when they are no longer needed.
+- ➕ Add Tasks – Quickly add new tasks to the list.
 
-✏️ Edit Tasks – Update any task details effortlessly.
+- 🗑️ Delete Tasks – Remove tasks when they are no longer needed.
 
-✅ Mark as Completed – Track which tasks are done.
+- ✏️ Edit Tasks – Update any task details effortlessly.
 
-📊 Progress Bar – Visual representation of completed vs pending tasks.
+- ✅ Mark as Completed – Track which tasks are done.
 
-📋 Task List View – See all your tasks in one place.
+- 📊 Progress Bar – Visual representation of completed vs pending tasks.
 
-🎨 Clean & Responsive UI – Simple design that works across devices.
+- 📋 Task List View – See all your tasks in one place.
 
-💻 Tech Stack
+- 🎨 Clean & Responsive UI – Simple design that works across devices.
 
-HTML5 – Structure of the app
+---
 
-CSS3 – Styling and responsiveness
+## 💻 Tech Stack
 
-JavaScript (Vanilla JS) – Functionality & interactivity
+- HTML5 – Structure of the app
 
-📸 Preview
+- CSS3 – Styling and responsiveness
+
+- JavaScript (Vanilla JS) – Functionality & interactivity
+
+---
+
+## 📸 Screenshots
