@@ -1,5 +1,5 @@
-# 📝 To-Do-List-App
-A clean and responsive **To-Do List app** built with HTML, CSS, and JavaScript to manage tasks effortlessly.
+# 📝 To-Do List App
+A clean and responsive **To-Do List** app built with HTML, CSS, and JavaScript to manage tasks effortlessly.
 This project helps users stay organized, track progress, and boost productivity with an easy-to-use interface.
 
 ---
