@@ -6,29 +6,29 @@ This project helps users stay organized, track progress, and boost productivity 
 
 ## 🚀 Features
 
-- ➕ Add Tasks – Quickly add new tasks to the list.
+- ➕ **Add Tasks** – Quickly add new tasks to the list.
 
-- 🗑️ Delete Tasks – Remove tasks when they are no longer needed.
+- 🗑️ **Delete Tasks** – Remove tasks when they are no longer needed.
 
-- ✏️ Edit Tasks – Update any task details effortlessly.
+- ✏️ **Edit Tasks** – Update any task details effortlessly.
 
-- ✅ Mark as Completed – Track which tasks are done.
+- ✅ **Mark as Completed** – Track which tasks are done.
 
-- 📊 Progress Bar – Visual representation of completed vs pending tasks.
+- 📊 **Progress Bar** – Visual representation of completed vs pending tasks.
 
-- 📋 Task List View – See all your tasks in one place.
+- 📋 **Task List View** – See all your tasks in one place.
 
-- 🎨 Clean & Responsive UI – Simple design that works across devices.
+- 🎨 **Clean & Responsive UI** – Simple design that works across devices.
 
 ---
 
 ## 💻 Tech Stack
 
-- HTML5 – Structure of the app
+- **HTML** – Structure of the app
 
-- CSS3 – Styling and responsiveness
+- **CSS** – Styling and responsiveness
 
-- JavaScript (Vanilla JS) – Functionality & interactivity
+- **JavaScript** – Functionality & interactivity
 
 ---
 
